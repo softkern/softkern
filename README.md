@@ -28,5 +28,5 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=BYE!&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=BYE&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
 </p>
