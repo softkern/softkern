@@ -1,3 +1,9 @@
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=WELCOME&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
+</p>
+
+
 ## 👋 Hi, I’m @softkern
 
 ![profile views](https://komarev.com/ghpvc/?username=softkern&style=for-the-badge)
@@ -13,3 +19,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=BYE!&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
+</p>
